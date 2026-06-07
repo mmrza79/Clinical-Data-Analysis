@@ -1,23 +1,23 @@
 # Clinical Data Analysis
 
-این پروژه مربوط به تحلیل داده های بالینی در حوزه توانبخشی است.
+This repository contains clinical rehabilitation data analysis projects.
 
-## هدف پروژه
+## Project Objective
 
-بررسی و تحلیل نتایج آزمون های بالینی بیماران و نمایش تغییرات عملکردی در طول دوره درمان.
+The goal of this project is to analyze clinical assessment data and evaluate patient outcomes during rehabilitation programs.
 
-## آزمون های مورد استفاده
+## Clinical Assessments
 
 - Berg Balance Scale (BBS)
 - Six Minute Walk Test (6MWT)
 - Range of Motion (ROM)
 
-## ابزارهای مورد استفاده
+## Tools
 
 - Python
 - MATLAB
-- Excel
+- Microsoft Excel
 
-## وضعیت پروژه
+## Project Status
 
-در حال توسعه و تکمیل
+Work in Progress
