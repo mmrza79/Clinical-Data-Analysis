@@ -1,5 +1,4 @@
 # Clinical Data Analysis
-# Clinical Data Analysis
 
 این پروژه مربوط به تحلیل داده های بالینی در حوزه توانبخشی است.
 
